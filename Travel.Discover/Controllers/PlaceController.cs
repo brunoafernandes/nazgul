@@ -15,7 +15,7 @@ namespace Travel.Discover.Controllers
         [HttpGet("health")]
         public IActionResult health()
         {
-            return Ok("working");
+            return Ok("workingg");
         }
     }
 }
